@@ -1,0 +1,110 @@
+<head>
+    <style>
+        .topnav {
+          background-color: #fce17a;
+          overflow: hidden;
+          width: 400;
+          margin: auto;
+        }
+        .topnav a {
+          font-family: Arial, Helvetica, sans-serif;
+          float:    left;
+          color: #000000;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+          font-size: 17px;
+          font-weight: bold;
+        }
+        .topnav a:hover {
+          background-color: #ddd;
+          color: black;
+        }
+
+        </style>
+</head>
+<title>Dubbingdb - Blog</title>
+</head>
+<body>
+    <div class="topnav">
+        <img  width="400" height= "auto"; src="https://cdn.discordapp.com/attachments/810451385610272818/924366879047434330/Neues_Projekt.png" alt="dubbingdbbild">
+        <a href="https://">Home</a>
+        <a href="https://">Recent Posts</a>
+        <a href="LINK ZUM BLOGBEITRAG"><h2>BLOGTITEL</h2></a>
+        <h1>KURZE BESCHREIBUNG</h1>
+        <img src="BILD ZUM BLOGBEITRAG" ,="" alt="Vorschau" width="200," height="100,">
+        <p>1 Min. Lesezeit</p>
+    </div>
+</body>
+<html>
+    <head>
+        <style>
+.topnav {
+  background-color: #fce17a;
+  overflow: hidden;
+  width: 400;
+  margin: auto;
+}
+.topnav a {
+  font-family: Arial, Helvetica, sans-serif;
+  float:    left;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-weight: bold;
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+        </style>
+        <title>Dubbingdb - Blog</title>
+    </head>
+    <body>
+        <div class="topnav">
+            <img  width="400" height= "auto"; src="https://cdn.discordapp.com/attachments/810451385610272818/924366879047434330/Neues_Projekt.png" alt="dubbingdbbild">
+            <a href="https://">Home</a>
+            <a href="https://">Recent Posts</a>
+          </div>
+    </body>
+</html>
+ 
+<html>
+<head>
+    <style>
+        .topnav {
+          background-color: #fce17a;
+          overflow: hidden;
+          width: 400;
+          margin: auto;
+          font-family: Arial, Helvetica, sans-serif;
+        }
+        .topnav a {
+          font-family: Arial, Helvetica, sans-serif;
+          float:    left;
+          color: #000000;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+          font-size: 17px;
+          font-weight: bold;
+        }
+        .topnav a:hover {
+          background-color: #ddd;
+          color: black;
+        }
+
+        </style>
+</head>
+<title>Dubbing DB</title>
+<body>
+  <div class="topnav">
+      <img  width="400" height= "auto"; src="https://cdn.discordapp.com/attachments/810451385610272818/924366879047434330/Neues_Projekt.png" alt="dubbingdbbild">
+      <a href="https://">Home</a>
+      <a href="https://">Recent Posts</a>
+    <center><h1>ÜBERSCHRIFT</h1></center>
+    <center><p>TEXT</p></center></div>
+</body>
+</html>
